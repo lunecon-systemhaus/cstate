@@ -57,14 +57,14 @@ params:
   enableLastMod: true
   headerTextColor: white
   logo: /img/microsoftteams-image-10-1-.png
-  incidentPostsPerPage: 10
+  incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
   categories:
