@@ -72,6 +72,7 @@ params:
       description: The main servers are located here.
       closed: true
     - name: Empty Category
+      closed: true
     - name: Uncategorized
       untitled: true
   description: Ein Service der Lunecon Systemhaus GmbH
